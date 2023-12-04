@@ -7,7 +7,7 @@ summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 ## Fine Dining
 ### [Grandmaster Recorders in WeHo](https://grandmasterrecorders.com/)
 ![burrata]( grandmasterrecord.jpg "Burrata 配老干妈绝绝子!!")
-![test logo] (https://www.dropbox.com/s/3imb7fmvuc22356/_frames_-10.png "this is a test!")
+![test logo](https://www.dropbox.com/s/3imb7fmvuc22356/_frames_-10.png "this is a test!")
 
 這間餐廳是一個當年很厲害的老錄音室改造而成的，從David Bowie到Kanye West都在這裏錄過音，雖然現在是完全看不到錄音室的痕跡了。廚房團隊都是澳洲來的，所以可以感覺很自然食材主導。在這家吃到了這個burrata配油潑辣子和蜂蜜的完美組合，實在是高！這間今年二月和八月一共去了兩次，兩次之間菜單改了不少，所以不知道現在再去吃是什麼菜單了。價格也挺合適的作爲fine dining餐廳來說。樓頂還有bar，可以露天喝酒～
 
@@ -17,6 +17,7 @@ summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 這間是n/naka餐廳團隊今年新開的比較accessible的日餐fusion，其實沒有特別驚豔啦，但是味道和食材新鮮度都是很on point的。因爲訂不到n/naka所以吃吃這家也不錯。n/naka自從上了Chef’s table之後就好難訂啊…
 
 ### [Hatchet Hall in Culver](http://www.hatchethallla.com/)
+
 這家的菜也是非常好吃，但是最驚豔的是這個corn bread，吃完直接想再來一個！他們家patio非常舒服，裏面還有個long bar和一個lounge，是個可以吃完飯繼續hang out一晚上的地方。
 
 ### [Tesse in WeHo](https://www.tesserestaurant.com/)
