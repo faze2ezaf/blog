@@ -5,23 +5,23 @@ tags: ["Blog", "Food", "LA"]
 summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 ---
 ## Fine Dining
-[**Grandmaster Recorders in WeHo**](https://grandmasterrecorders.com/)
+### [Grandmaster Recorders in WeHo](https://grandmasterrecorders.com/)
 ![burrata](/images/posts/grandmasterrecord.jpg "Burrata 配老干妈绝绝子!!")
 
 這間餐廳是一個當年很厲害的老錄音室改造而成的，從David Bowie到Kanye West都在這裏錄過音，雖然現在是完全看不到錄音室的痕跡了。廚房團隊都是澳洲來的，所以可以感覺很自然食材主導。在這家吃到了這個burrata配油潑辣子和蜂蜜的完美組合，實在是高！這間今年二月和八月一共去了兩次，兩次之間菜單改了不少，所以不知道現在再去吃是什麼菜單了。價格也挺合適的作爲fine dining餐廳來說。樓頂還有bar，可以露天喝酒～
 
-[**n/soto in West Adams**](https://n-soto.com/)
+### [n/soto in West Adams](https://n-soto.com/)
 ![n/soto的釜饭](https://file.notion.so/f/f/ee580e7a-f267-49e4-b34c-d2058d686325/6b5b2251-6836-40d3-b57b-5974716aeb9f/IMG_3596.jpg?id=108c28ef-fd69-4adb-a002-66397a45c6c3&table=block&spaceId=ee580e7a-f267-49e4-b34c-d2058d686325&expirationTimestamp=1700013600000&signature=0U8T0cr996SjMmmHb8mNW0a2FawjZ2GGPVGs28y5mRo&downloadName=IMG_3596.jpg)
 
 這間是n/naka餐廳團隊今年新開的比較accessible的日餐fusion，其實沒有特別驚豔啦，但是味道和食材新鮮度都是很on point的。因爲訂不到n/naka所以吃吃這家也不錯。n/naka自從上了Chef’s table之後就好難訂啊…
 
-[**Hatchet Hall in Culver**](http://www.hatchethallla.com/)
+### [Hatchet Hall in Culver](http://www.hatchethallla.com/)
 這家的菜也是非常好吃，但是最驚豔的是這個corn bread，吃完直接想再來一個！他們家patio非常舒服，裏面還有個long bar和一個lounge，是個可以吃完飯繼續hang out一晚上的地方。
 
-[**Tesse in WeHo**](https://www.tesserestaurant.com/)
+### [Tesse in WeHo](https://www.tesserestaurant.com/)
 這家是法餐，menu不大但是很精選。吃這間餐廳正好碰上DineLA的deal，很划算，包括了所有的top dish，都很好吃沒有踩雷的，算是很良心的dineLA menu了。最後這個主菜的豬排真的是驚爲天人，沒吃過這麼好吃這麼嫩的🐷
 
-[**Formosa Cafe in WeHo**](https://theformosacafe.com/)
+### [Formosa Cafe in WeHo](https://theformosacafe.com/)
 這間supposedly臺灣fusion，但是菜絕對不是正宗的臺灣菜，不過也是好吃的。但是主要來看看裝飾和瞭解一下old Hollywood的歷史，也非常有意思。餐廳裏還有一節老式火車車廂，也可以坐在裏面吃。這裏也是無數電視電影的取景地，最近的就有Euphoria和Chippendales。
 
 [**Honorary mention: Little Mad in NYC**](https://www.littlemadnyc.com/)
