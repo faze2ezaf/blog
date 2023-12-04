@@ -4,6 +4,7 @@ title: 2022 年吃过的最佳LA餐厅
 date: 2023-01-04
 feature: "/images/grandmasterrecord.jpg"
 thumbnail: "/images/grandmasterrecord.jpg"
+coverAlt: "burrata at grandmasterrecord.jpg"
 tags: ["Blog", "Food", "LA"]
 summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 ---
