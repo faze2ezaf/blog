@@ -1,8 +1,8 @@
 ---
 title: 2023年重启博客
 # feature: "/content/posts/la-restaurant-2022/grandmasterrecord.jpg"
-date: 2023-12-4
-# feature: "/images/grandmasterrecord.jpg"
+date: 2023-12-04
+feature: "../../a-blog-restart/hugo.png"
 # thumbnail: "/images/grandmasterrecord.jpg"
 # coverAlt: "burrata at grandmasterrecord.jpg"
 showTableOfContents: true 
