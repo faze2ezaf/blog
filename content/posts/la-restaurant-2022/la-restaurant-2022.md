@@ -5,6 +5,7 @@ date: 2023-01-04
 feature: "/images/grandmasterrecord.jpg"
 thumbnail: "/images/grandmasterrecord.jpg"
 coverAlt: "burrata at grandmasterrecord.jpg"
+showTableOfContents: true 
 tags: ["Blog", "Food", "LA"]
 summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 ---
