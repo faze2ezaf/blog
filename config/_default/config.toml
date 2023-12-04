@@ -9,7 +9,8 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
-relativeURLs = "true"
+# relativeURLs = "true"
+canonifyURLs = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
