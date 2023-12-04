@@ -5,8 +5,12 @@ date: 2023-01-04
 tags: ["Blog", "Food", "LA"]
 summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 ---
+
 ## Fine Dining
 ### [Grandmaster Recorders in WeHo](https://grandmasterrecorders.com/)
+{{ $image := .Resources.Get "grandmasterrecord.jpg" }}
+{{ $image := .Resources.GetMatch "grandmasterrecord.jpg" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
 ![burrata](/images/posts/burrata.png "Burrata 配老干妈绝绝子!!")
 ![burrata 2](grandmasterrecord.jpg "Burrata 配老干妈绝绝子!!")
 ![burrata 3](/static/images/posts/burrata.png "Burrata 配老干妈绝绝子!!")
