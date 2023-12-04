@@ -9,7 +9,7 @@ title = "Faze not Fazed"
 [params]
   dateFormat = "January 2 2006"
 
- mainSections = ["posts"]
+  mainSections = ["posts"]
   # description = "My awesome website"
 
 [author]
