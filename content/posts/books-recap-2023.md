@@ -11,8 +11,7 @@ summary: "2023年读过最喜欢的虚构和非虚构书"
 
 ## 今年最喜欢的虚构类书
 ### Tomorrow, and Tomorrow, and Tomorrow
-![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg "tomorrow and tomorrow and tomorrow")
-<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg" alt="tomorrow and tomorrow and tomorrow" width="400"/>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg" alt="tomorrow and tomorrow and tomorrow" align="middle" width="200"/>
 刚开始有点像一个青春恋爱故事，但实际上随着主角们的成长他们的人生故事也变的更复杂。我特别喜欢书的后半段发生一个大转折的时候，有声书突然换了一个男性的朗读者，来代表另一个主角Marx的视角，突然这个故事的给我的感觉就非常的悲伤，甚至听着听着就泪目了。
 书名来自Marx最喜欢的Macbeth中的一段话，也是特别的悲剧：
 > Tomorrow, and tomorrow, and tomorrow,  
@@ -28,7 +27,7 @@ Signifying nothing.
 
 
 ### Yellowface
-<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671336608i/62047984.jpg" alt="Yellowface" width="300">
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671336608i/62047984.jpg" alt="Yellowface" align="middle" width="200" >
 爽文，一篇大爽文。有趣的是作者用恶人的视角来写这个故事，然后帮她justify她的行为。读audio book的演员也是读得非常有戏！
 
 
