@@ -5,8 +5,9 @@ showTableOfContents: true
 tags: ["Blog", "Life"]
 summary: "盘点一下2023买的最值最开心的东西"
 ---
-![projector.jpg](/images/projector.jpg "投影ambience video在卧室墙上的效果，虽然有个插头但是大多数时候是看不太到的"){:height 300}
-### Xgimi MoGo 2 投影仪
+
+<img src="/images/projector.jpg" alt="投影ambience video在卧室墙上的效果，虽然有个插头但是大多数时候是看不太到的" height="300">
+### [Xgimi MoGo 2 投影仪](https://www.amazon.com/gp/product/B0BWQBDVTN)
 要说今年带来最大乐趣的物件应该就是这个投影仪。我们在搬来LA之后就一直只有客厅一个电视，因为不太想在卧室看电视。但是家属说有一次去朋友家看到他们用投影仪在房间里放ambience video然后meditate,觉得这个主意很棒。因为不是经常看所以对投影仪的要求不是特别高，而且我本来想从淘宝买，结果淘宝小二都说国内版本的美国不能用，所以最后还是趁prime day在amazon $399 打到 $299 的时候买了。美国版的好处是直接可以连google play store下载美国的各种streaming app，唯一不能下的是netflix，但是说明书里给了个work around的方法，需要在一个网页上login你的account，我是感觉有点sketchy啦。。。
 
 在卧室的一整面墙上投影ambience video真的有身临奇境的感觉，而且youtube上的ambience video选择也太多了吧！从森林小屋到海边篝火，而且各种季节 气候都有，下雨下雪鸟叫瀑布的。晚上听这些当白噪音也帮家属治愈了一部分失眠的问题。
