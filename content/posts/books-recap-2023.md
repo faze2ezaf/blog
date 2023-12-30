@@ -57,9 +57,10 @@ Silo的原著其实叫“The Wool Trilogy", 讲的是一个地球末日灾难发
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661332705i/62069739.jpg" alt="When We Cease to Understand the World" width="200">
 这本书描述了一些在历史上做出过很大贡献的科学家，和他们有一些疯狂的事迹。人物都是真的，据说有一些细节是虚构的，但是谁知道呢？
 
+---
 
 ## 今年想读但是没读下去明年可能会再尝试读的书
 ### 红楼梦
-<img src="https://img1.doubanio.com/view/subject/s/public/s27172450.jpg" alt="红楼梦脂评汇校本" width="200">
+<img src="https://m.media-amazon.com/images/I/713ybC0hTHL._SL1280_.jpg" alt="红楼梦脂评汇校本" width="200">
 因为去年听同事的播客讲到有一个版本叫做「红楼梦脂评汇校本」是比较容易读的所以有点兴趣开始读。「脂砚斋」这个人也是很神秘，据说他在红楼梦的原书中写了很多批语，甚至有传说他读过遗失的红楼梦章节，所以他的评语中会暗示未来的情节。但是这个人究竟是谁，是曹雪芹本人还是跟他认识的人士，这件事情已经完全失传了。不过看有评语的版本确实比较有趣，有时候还会解释一下我没看懂的点。另外看红楼梦也是催眠效果极佳的良药，因为实在太难看懂了，我一般一晚服用1-2页就可以安眠了。明年要捡起来再看的话一定要找个比较清醒的时间段来尝试。
 
