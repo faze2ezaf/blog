@@ -34,11 +34,11 @@ summary: "盘点一下2023买的最值最开心的东西"
 今年唯一在淘宝买的一样东西吧，charging stand 在美国都卖超贵，淘宝上的就价廉物美的多（虽然可能没有MFi认证，但是如果评价很多的应该就都还可以。我选了一个 magsafe 一个无线充watch / airpods的2合1款，才 $10 不到。这边 amazon 一个 Anker 的三合一竟然要$150。。。
 
 ### SD买的三角形Martini酒杯
-<img src="https://www.vivaterra.com/images/V8693_VTSP23-642-LS1544x1200.jpg?format=1200Wx1200H" alt="triangle martini glasses" size="150">
+<img src="https://www.vivaterra.com/images/V8693_VTSP23-642-LS1544x1200.jpg?format=1200Wx1200H" alt="triangle martini glasses" width="200">
 去San Diego的时候去了 Cedros Ave 上的homeware 集合店 [Solo](http://www.solocedros.com)，这是有十多位 curator 搜集各种 designer goods 放在一个仓库里的店，真是太好逛了！东西的种类从文具到书，到家饰和家具都有，非常丰富。可惜我们只有有限的时间，最后就看中这一对三角形的酒杯，因为家属对三角形有特别的偏爱，而且三角形的酒杯也很少见。回来用了一阵发现这个酒杯的玻璃应该是非常好的品质，不仅超级薄，而且其实还挺坚固，不小心敲了两次但是也没事。反正可以在旅行的时候带一些东西回家留下回忆就很开心！
 
 ### New Balance WRPD Runner 
-<img src="https://kith.com/cdn/shop/files/NBUWRPDMOBNewBalanceWrpdRunnerSeaSalt_2887_1512x.jpg?v=1692195629" alt="NB WRPD runner" size="150">
+<img src="https://kith.com/cdn/shop/files/2_a70110a4-c46f-42e9-a7d7-36773b68d18a.jpg" alt="NB WRPD runner" width="200">
 最后再补上这个家属送我的圣诞礼物！穿上意外获得了增高的bonus feature，让我在178的家属旁边稍微找回一点自信。。。 
 
 2023的消费主义实录就到这里吧，今年其实我也有努力记账一整年，虽然流水是负数，但是日子过得开心就好了！
