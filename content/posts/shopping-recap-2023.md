@@ -35,7 +35,7 @@ summary: "盘点一下2023买的最值最开心的东西"
 
 ### SD买的三角形Martini酒杯
 <img src="https://www.vivaterra.com/images/V8693_VTSP23-642-LS1544x1200.jpg?format=1200Wx1200H" alt="triangle martini glasses" size="150">
-去San Diego的时候去了 Cedros Ave 上的homeware 集合店 [Solo](http://www.solocedros.com/)，这是有十多位 curator 搜集各种 designer goods 放在一个仓库里的店，真是太好逛了！东西的种类从文具到书，到家饰和家具都有，非常丰富。可惜我们只有有限的时间，最后就看中这一对三角形的酒杯，因为家属对三角形有特别的偏爱，而且三角形的酒杯也很少见。回来用了一阵发现这个酒杯的玻璃应该是非常好的品质，不仅超级薄，而且其实还挺坚固，不小心敲了两次但是也没事。反正可以在旅行的时候带一些东西回家留下回忆就很开心！
+去San Diego的时候去了 Cedros Ave 上的homeware 集合店 [Solo](http://www.solocedros.com)，这是有十多位 curator 搜集各种 designer goods 放在一个仓库里的店，真是太好逛了！东西的种类从文具到书，到家饰和家具都有，非常丰富。可惜我们只有有限的时间，最后就看中这一对三角形的酒杯，因为家属对三角形有特别的偏爱，而且三角形的酒杯也很少见。回来用了一阵发现这个酒杯的玻璃应该是非常好的品质，不仅超级薄，而且其实还挺坚固，不小心敲了两次但是也没事。反正可以在旅行的时候带一些东西回家留下回忆就很开心！
 
 ### New Balance WRPD Runner 
 <img src="https://kith.com/cdn/shop/files/NBUWRPDMOBNewBalanceWrpdRunnerSeaSalt_2887_1512x.jpg?v=1692195629" alt="NB WRPD runner" size="150">
