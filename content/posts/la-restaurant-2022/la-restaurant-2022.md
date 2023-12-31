@@ -12,8 +12,6 @@ summary: "几家LA的餐厅推荐，还有一家纽约的友情客串"
 
 ## Fine Dining
 ### [Grandmaster Recorders in WeHo](https://grandmasterrecorders.com/)
-<img alt="burrata" src="../../../images/grandmasterrecord.jpg">
-
 ![burrata](/images/grandmasterrecord.jpg "Burrata配老干妈真是绝了！")
 
 這間餐廳是一個當年很厲害的老錄音室改造而成的，從David Bowie到Kanye West都在這裏錄過音，雖然現在是完全看不到錄音室的痕跡了。廚房團隊都是澳洲來的，所以可以感覺很自然食材主導。在這家吃到了這個burrata配油潑辣子和蜂蜜的完美組合，實在是高！這間今年二月和八月一共去了兩次，兩次之間菜單改了不少，所以不知道現在再去吃是什麼菜單了。價格也挺合適的作爲fine dining餐廳來說。樓頂還有bar，可以露天喝酒～
