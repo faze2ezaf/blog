@@ -8,3 +8,5 @@ date: 2024-01-03
 [椒盐豆豉](https://blog.douchi.space)
 
 [Shiori ʕ•ᴥ•ʔ](https://shioriblog.github.io/)
+
+[After 27](https://www.after27.me/)
