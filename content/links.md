@@ -1,9 +1,9 @@
 ---
-title: "友情链接"
+title: "友链"
 date: 2024-01-03
 ---
 
-## 友情链接
+*经常串门的朋友们*
 --- 
 [椒盐豆豉](https://blog.douchi.space)
 
