@@ -2,7 +2,7 @@
 title: 也是一种「返乡」- 悉尼之行
 date: 2024-03-03
 showTableOfContents: true
-tags: ["Blog", "Life"]
+tags: ["Blog", "Life", "Sydney"]
 summary: "2月和家属去悉尼见家长了，还一起过了年"
 --- 
 
