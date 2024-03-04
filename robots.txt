@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://faze2ezaf.github.io/blog/sitemap.xml
