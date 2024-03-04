@@ -11,44 +11,31 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "博客"
+  name = "Blog"
   pageRef = "posts"
   weight = 10
 
-# [[main]]
-#  name = "小记"
-#  pageRef = "notes"
-#  weight = 20  
-
-# [[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
 
 [[main]]
-  name = "标签"
+  name = "Tags"
   pageRef = "tags"
   weight = 30
 
 [[main]]
-  identifier = "友链"
-  PageRef = "links"
-  weight = 40
-
-
-
-[[main]]
-  identifier = "搜索"
+  identifier = "search"
   weight = 99
   [main.params]
-  action = "search"
+    action = "search"
 
-  
-# [[main]]
-#  identifier = "locale"
-#  weight = 100
-#  [main.params]
-#    action = "locale"
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+    action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
